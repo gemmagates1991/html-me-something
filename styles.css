@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Arial Narrow';
+    font-weight: bold;
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    border: 2px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+   
+    
+
+}

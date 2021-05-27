@@ -1,23 +1,23 @@
 body{
-    background-color: pink;
+    background-color: darkolivegreen;
 }
 
 h1{
-    color: black;
+    color: darkgreen;
     text-align: center;
     font-family: Arial;
     font-weight: bold;
 }
 
 h3{
-    color: black;
+    color: darkgreen;
     text-align: center;
     font-family: Arial;
     font-weight: bold;
 }
 
 p{
-    color: blue;
+    color: darkslategray;
     text-align: center;
     font-family: Arial;
 }

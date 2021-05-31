@@ -9,12 +9,6 @@ h1{
     font-weight: bold;
 }
 
-h2{
-    color: rgb(235, 222, 47);
-    text-align: center;
-    font-family: Arial;
-    font-weight: bold;
-}
 
 h3{
     color: darkslateblue;
@@ -24,7 +18,7 @@ h3{
 }
 
 
-#extra, h1{
+#name {
     text-transform: capitalize;
 }
 

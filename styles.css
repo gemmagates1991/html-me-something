@@ -20,6 +20,10 @@ h3{
 
 #name {
     text-transform: capitalize;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
 }
 
 p{
@@ -50,5 +54,5 @@ img{
 
 .content {
     margin-left: 40px;
-    text-align: left;
+    text-align: center;
 }
